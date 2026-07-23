@@ -149,7 +149,29 @@ Power BI Developer | Data Analyst
 
 🔗 LinkedIn:
 https://www.linkedin.com/in/roomy-f-02185437a/
+## 📷 Project Screenshots
 
+### 📊 Executive Dashboard
+
+![Executive Dashboard](executive_dashboard.PNG)
+
+### 📋 Transaction Dashboard
+
+![Transaction Dashboard](Transaction_dashboard.PNG)
+
+### 🗂️ Data Model
+
+![Data Model](Data_model.PNG)
+
+### 📐 DAX Measures
+
+#### Measures - Part 1
+
+![DAX Measures 1](dax_measures_1.PNG)
+
+#### Measures - Part 2
+
+![DAX Measures 2](dax_measures_2.PNG)
 ---
 
 ⭐ If you found this project helpful, please consider giving it a star.
